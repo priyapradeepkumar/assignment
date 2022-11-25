@@ -1,6 +1,6 @@
 #!/bin/bash
 # Counting the number of lines in a list of files
-#need to give a input file as input
+#need to give a input file as input - updated master branch
 # for loop over arguments
 
 if [ $# -lt 1 ]
